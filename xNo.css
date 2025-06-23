@@ -32,7 +32,7 @@ h1 {
 }
 
 .userSubmit {
-    padding-top: 3%;
+    padding-top: 2%;
        width: 100%;
         display: flex;
     flex-direction: row;
@@ -139,7 +139,7 @@ width: 90%}
 #gameCon { 
     display: hide;
 width: 70%;
-height: 30vh;
+height: 35vh;
 }
 
 h1 {
@@ -171,3 +171,150 @@ h1 {
     font-size: large;
 }
 }
+
+
+@media only screen  and (min-width: 601px) and (max-width: 700px)  {
+
+    label {
+         padding: 1%;
+    }
+    input {
+ padding: 1%;
+}
+
+  #gameIntro {
+width: 80%}
+
+#gameCon { 
+    display: hide;
+width: 60%;
+height: 40vh;
+}
+
+h1 {
+    font-size: large;
+}
+
+.reply button {
+    font-size: large;
+}
+}
+
+
+
+@media only screen  and (min-width: 701px) and (max-width: 950px)  {
+
+  #gameIntro {
+    padding-top: 2%;
+width: 75%}
+
+#gameCon { 
+    display: hide;
+width: 55%;
+height: 50vh;
+}
+
+h1 {
+    font-size: x-large;
+}
+
+.reply button {
+    font-size: x-large;
+}
+
+.userSubmit {
+    padding: 1%;
+}
+
+    label {
+         padding: 0%;
+    }
+    input {
+ font-size: large;
+}
+}
+
+
+
+@media only screen  and (min-width: 951px) and (max-width: 1000px)  {
+
+  #gameIntro {
+    padding-top: 2%;
+width: 75%}
+
+#gameCon { 
+    display: hide;
+width: 53%;
+height: 58vh;
+}
+
+h1 {
+    font-size: x-large;
+}
+
+.reply button {
+    font-size: x-large;
+}
+
+.userSubmit {
+    padding: 1%;
+}
+
+    label {
+         padding: 0%;
+    }
+    input {
+ font-size: large;
+}
+}
+
+
+
+@media only screen and (min-width: 1001px)  {
+
+  #gameIntro {
+    padding-top: 2%;
+width: 800px;}
+
+#gameCon { 
+    display: hide;
+width: 600px;
+height: 500px;
+}
+
+h1 {
+    font-size: xx-large;
+}
+
+.reply button {
+    font-size: x-large;
+}
+
+.userSubmit {
+    padding: 1%;
+}
+
+    label {
+         padding: 0%;
+    }
+    input {
+ font-size: large;
+}
+}
+
+
+
+
+@media only screen and (min-height: 1000px)  {
+
+
+
+#gameCon { 
+    display: hide;
+
+height: 550px;
+}
+
+}
+
+
