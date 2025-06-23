@@ -1,2 +1,2 @@
 # X-and-O
-A brief javascript project to perfect my begineer skilss
+A brief JavaScript project to perfect my beginner skills
